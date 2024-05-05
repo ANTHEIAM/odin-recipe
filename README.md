@@ -1,11 +1,10 @@
 # The Odin Project - Recipe page solution
 
-This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-
+This is a solution to the [Recipe project assignment](https://www.theodinproject.com/lessons/foundations-recipes). (read me template from frontend mentor, i will edit it later)
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
+  - [The assignment](#the-assignment)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
